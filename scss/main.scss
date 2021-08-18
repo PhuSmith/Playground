@@ -1,2 +1,14 @@
+@import "./Helper/variables";
+@import "./Helper/mixin";
+
 @import "./Base/reset";
-@import "./Base/customize";
+@import "./Base/global";
+
+@import "./Layouts/header";
+@import "./Layouts/banner";
+@import "./Layouts/category";
+@import "./Layouts/feature";
+@import "./Layouts/partner";
+@import "./Layouts/connect";
+@import "./Layouts/subscribe";
+@import "./Layouts/footer";
